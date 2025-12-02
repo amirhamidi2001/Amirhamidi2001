@@ -18,7 +18,7 @@
 ### 🧠 About Me
 - 🌱 I’m currently learning **Django, DRF, and Scrapy**  
 - 💬 Ask me about **Python, Django, and REST APIs**  
-- 📫 How to reach me: **amirarsalanh2001@gmail.com**  
+- 📫 How to reach me: **amirhamidii2001@gmail.com**  
 - 📄 Know about my experiences: [amirhamidi.pythonanywhere.com](https://amirhamidi.pythonanywhere.com/)  
 
 👨‍💻 I love building scalable backend systems, APIs, and data pipelines.  
