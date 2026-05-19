@@ -69,7 +69,7 @@ A full-stack **electrical panel management platform** — one of my more technic
 
 Built with Django, DRF, React, PostgreSQL, Redis, and JWT auth. Fully Dockerized for deployment.
 
-**Stack:** `Django` `DRF` `React` `PostgreSQL` `Redis` `Docker` `JWT`
+**Stack:** `Django` `DRF` `React` `PostgreSQL` `Redis` `Docker`
 
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amirhamidi2001/tablogenix-ecommerce)
 
@@ -77,9 +77,9 @@ Built with Django, DRF, React, PostgreSQL, Redis, and JWT auth. Fully Dockerized
 <td width="50%" valign="top">
 
 ### 🎓 Roya Sazan Javan
-An **educational platform** with full authentication, course management, and REST APIs. Clean, responsive, and live in production.
+An **educational platform** with full authentication, course management, and comprehensive admin dashboard. Clean, responsive, and live in production.
 
-**Stack:** `Django` `React` `REST APIs` `Auth`
+**Stack:** `Django` `Bootstrap 5` `PostgreSQL` `Google OAuth2`
 
 [![Live](https://img.shields.io/badge/Live_Site-22c55e?style=for-the-badge&logo=vercel&logoColor=white)](https://royasazanjavan.org)
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amirhamidi2001/royasazanjavan)
@@ -92,7 +92,7 @@ An **educational platform** with full authentication, course management, and RES
 ### 🛒 Goriila Shop
 A production **e-commerce app** with shopping cart, product management, authentication, and a responsive UI.
 
-**Stack:** `Django` `React` `PostgreSQL`
+**Stack:** `Django` `HTML` `CSS` `AOS` `JavaScript`
 
 [![Live](https://img.shields.io/badge/Live_Site-22c55e?style=for-the-badge&logo=vercel&logoColor=white)](https://goriilashop.com/)
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amirhamidi2001/goriilashop)
@@ -103,7 +103,10 @@ A production **e-commerce app** with shopping cart, product management, authenti
 ### 🌐 Personal Portfolio
 My portfolio showcasing projects, skills, and experience. Built and deployed independently.
 
+**Stack:** `Django` `Bootstrap 5` `AOS` `PythonAnywhere`
+
 [![Visit](https://img.shields.io/badge/Visit_Portfolio-3b82f6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://amirhamidi.pythonanywhere.com/)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amirhamidi2001/amirhamidi)
 
 </td>
 </tr>
